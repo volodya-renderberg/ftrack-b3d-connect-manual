@@ -5,7 +5,7 @@ Manual
 
 `Общий обзор (видео) <https://youtu.be/R-c-LF7VbWM>`_
 
-Contents:
+Содержание:
 
 .. toctree::
    :maxdepth: 1
