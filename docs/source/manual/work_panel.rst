@@ -85,7 +85,7 @@ Textures:
 Collect textures
 ~~~~~~~~~~~~~~~~
 
-:guilabe:`Collect textures`
+:guilabel:`Collect textures`
 
 Сборка текстур с перезаписью путей в директорию **textures** активной задачи.
 
