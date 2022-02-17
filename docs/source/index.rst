@@ -5,10 +5,12 @@ Manual
 
 `Общий обзор (видео) <https://youtu.be/R-c-LF7VbWM>`_
 
+`Установка обновление <https://www.notion.so/propls/Blender-c82c47774e5341a8b633ebb9a4dfe3f4>`_
+
 Содержание:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    manual/authentication
    manual/settings

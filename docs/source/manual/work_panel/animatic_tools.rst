@@ -10,6 +10,8 @@ Animatic tools
 Download_animatic
 -----------------
 
+:guilabel:`Download_animatic`
+
 Загрузка в секвенсор видео аниматика на первые две дорожки.
 
 * Поиск файла для загрузки локальный.
