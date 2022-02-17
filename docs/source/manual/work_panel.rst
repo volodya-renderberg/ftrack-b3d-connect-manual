@@ -21,6 +21,8 @@ From Ftrack:
 Download version
 ~~~~~~~~~~~~~~~~
 
+:guilabel:`Download version`
+
 Загрузка версии активной задачи с *ftrack* на локальный компьютер пользователя, полностью аналогична :ref:`selected_panel_download_version`
 
 .. _work_panel_sources:
@@ -33,12 +35,16 @@ Sources:
 Update incoming
 ~~~~~~~~~~~~~~~
 
+:guilabel:`Update incoming`
+
 Загрузка с *ftrack* недостающих входящих компонентов для активной задачи, полностью аналогична :ref:`selected_panel_update_incoming`
 
 .. _work_panel_sources_panel:
 
 Sources panel
 ~~~~~~~~~~~~~
+
+:guilabel:`Sources panel`
 
 Открытие панели с перечнем исходников активной задачи, с возможностью загрузки ``collections`` по выбору из исходников в текущий рабочий файл.
 
@@ -54,6 +60,8 @@ Local:
 Open version
 ~~~~~~~~~~~~
 
+:guilabel:`Open version`
+
 Открытие локальной версии активной задачи по выбору.
 
 .. attention:: **top** версия рабочего файла будет перезаписана, если не был сделан :ref:`work_panel_commit` данные не сохранятся.
@@ -62,6 +70,8 @@ Open version
 
 Open task folder
 ~~~~~~~~~~~~~~~~
+
+:guilabel:`Open task folder`
 
 Запуск проводника в папке данной задачи.
 
@@ -75,6 +85,8 @@ Textures:
 Collect textures
 ~~~~~~~~~~~~~~~~
 
+:guilabe:`Collect textures`
+
 Сборка текстур с перезаписью путей в директорию **textures** активной задачи.
 
 `Collect textures (видео) <https://youtu.be/iTCtTxtwsns>`_
@@ -83,6 +95,8 @@ Collect textures
 
 Edit textures
 ~~~~~~~~~~~~~
+
+:guilabel:`Edit textures`
 
 Открытие графического редактора для редактирования текстур из директории **textures** активной задачи.
 
@@ -109,6 +123,8 @@ To Ftrack:
 Check
 ~~~~~
 
+:guilabel:`Check`
+
 * Проверка текущей сцены на соответствие с требованиями для данного типа задачи.
 
 * При обнаружении несоответствий, будет запущено информационное окно.
@@ -120,6 +136,8 @@ Check
 Commit
 ~~~~~~
 
+:guilabel:`Commit`
+
 * Фиксация изменений **top** версии, создание новой локальной версии, запуск фоновой загрузки версии на *ftrack*.
 
 * Если поставить галочку ``To Review`` то статус задачи изменится на *Pending Review* и создаваемая версия также будет в этом статусе.
@@ -130,6 +148,8 @@ Commit
 
 Change status to "Pending Review"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Change status to "Pending Review"`
 
 Изменение статуса на *Pending Review* без создания версии.
 
@@ -148,10 +168,14 @@ Playblast:
 Local playblast
 ~~~~~~~~~~~~~~~
 
+:guilabel:`Local playblast`
+
 Создание плейбласта без отправки версии, но с сохранением по настройкам.
 
 Playblast to version
 ~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Playblast to version`
 
 .. image:: ../_static/images/playblast_to_version.png
 
@@ -165,4 +189,4 @@ Playblast to version
 
 * **Description** - обязательное для заполнения поле с кратким комментарием для данной версии.
 
-* **Make commit** - если ``True`` то будет так же сделан и коммит, по умолчанию ``True``.
+* **Make commit** - если ``True`` то будет так же сделан и :ref:`work_panel_commit`, по умолчанию ``True``.
