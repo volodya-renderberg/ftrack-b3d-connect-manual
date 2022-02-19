@@ -15,7 +15,8 @@ Manual
    manual/authentication
    manual/settings
    manual/tasks_list
-   manual/selected_panel
+   manual/selected_panel_work
+   manual/selected_panel_check
    manual/work_panel
    manual/check_panel
    manual/video
