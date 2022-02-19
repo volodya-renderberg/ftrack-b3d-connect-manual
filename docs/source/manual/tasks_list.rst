@@ -42,4 +42,4 @@ Filter:
 Select button
 ~~~~~~~~~~~~~
 
-Кнопка напротив каждой задачи. Откроет :ref:`work-selected-panel-page` данной задачи в зависимости от :ref:`tasks_list_role`.
+Кнопка напротив каждой задачи. Откроет :ref:`work-selected-panel-page` или :ref:`check-selected-panel-page` данной задачи в зависимости от :ref:`tasks_list_role`.
