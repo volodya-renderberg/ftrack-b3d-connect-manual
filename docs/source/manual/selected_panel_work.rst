@@ -21,18 +21,14 @@ From Ftrack:
 Download version
 ~~~~~~~~~~~~~~~~
 
-:guilabel:`Download version`
-
-Загрузка версии активной задачи с ftrack на локальный компьютер пользователя.
+:guilabel:`Download version` - Загрузка версии активной задачи с ftrack на локальный компьютер пользователя.
 
 .. _selected_panel_update_incoming:
 
 Update incoming
 ~~~~~~~~~~~~~~~
 
-:guilabel:`Update incoming`
-
-Загрузка с ftrack недостающих входящих компонентов для активной задачи.
+:guilabel:`Update incoming` - Загрузка с ftrack недостающих входящих компонентов для активной задачи.
 
 .. _selected_panel_local:
 
@@ -52,10 +48,9 @@ Local:
 Current scene to work
 ~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`Current scene to work`
+:guilabel:`Current scene to work` - Взятие в работу текущей открытой сцены, с копированием в **top** версию активной задачи.
 
-* Взятие в работу текущей открытой сцены, с копированием в **top** версию активной задачи.
-	* Если данный файл уже является **top** версией данной задачи, то копирования файла производиться не будет.
+* Если данный файл уже является **top** версией данной задачи, то копирования файла производиться не будет.
 * Будет открыта :ref:`work-panel-page`
 
 .. attention:: **top** версия рабочего файла будет перезаписана, если не был сделан :ref:`work_panel_commit` данные не сохранятся.
@@ -65,9 +60,8 @@ Current scene to work
 Open
 ~~~~
 
-:guilabel:`Open`
+:guilabel:`Open` - Открытие **top** версии активной задачи.
 
-* Открытие **top** версии активной задачи.
 * Будет открыта :ref:`work-panel-page`
 
 .. _selected_panel_open_version:
@@ -75,9 +69,8 @@ Open
 Open version
 ~~~~~~~~~~~~
 
-:guilabel:`Open version`
+:guilabel:`Open version` - Открытие локальной версии активной задачи по выбору.
 
-* Открытие локальной версии активной задачи по выбору.
 * Будет открыта :ref:`work-panel-page`
 
 .. attention:: **top** версия рабочего файла будет перезаписана, если не был сделан :ref:`work_panel_commit` данные не сохранятся.

@@ -17,18 +17,14 @@ From Ftrack:
 Download version
 ~~~~~~~~~~~~~~~~
 
-:guilabel:`Download version`
-
-Загрузка версии активной задачи с ftrack на локальный компьютер пользователя.
+:guilabel:`Download version` - Загрузка версии активной задачи с ftrack на локальный компьютер пользователя.
 
 .. _check_selected_panel_update_incoming:
 
 Update incoming
 ~~~~~~~~~~~~~~~
 
-:guilabel:`Update incoming`
-
-Загрузка с ftrack недостающих входящих компонентов для активной задачи.
+:guilabel:`Update incoming` - Загрузка с ftrack недостающих входящих компонентов для активной задачи.
 
 
 .. _check_selected_panel_local:
@@ -41,9 +37,8 @@ Local:
 Look
 ~~~~
 
-:guilabel:`Look`
+:guilabel:`Look` - Открытие (без смены статуса) **top** версии активной задачи.
 
-* Открытие (без смены статуса) **top** версии активной задачи.
 * Будет открыта :ref:`check-panel-page`
 
 .. _check_selected_panel_look_version:
@@ -51,9 +46,8 @@ Look
 Look version
 ~~~~~~~~~~~~
 
-:guilabel:`Look version`
+:guilabel:`Look version` - Открытие (без смены статуса) локальной версии активной задачи по выбору.
 
-* Открытие (без смены статуса) локальной версии активной задачи по выбору.
 * Будет открыта :ref:`check-panel-page`
 
 .. _check_selected_panel_open_task_folder:
@@ -61,6 +55,4 @@ Look version
 Open task folder
 ~~~~~~~~~~~~~~~~
 
-:guilabel:`Open task folder`
-
-Запуск проводника в папке данной задачи.
+:guilabel:`Open task folder` - Запуск проводника в папке данной задачи.
