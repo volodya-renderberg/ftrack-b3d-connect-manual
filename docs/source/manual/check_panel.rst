@@ -1,7 +1,7 @@
 .. _check-panel-page:
 
-Check Panel
-===========
+Checking Panel
+==============
 
 Панель отображаемая когда файл активной задачи ткрыт для проверки в :ref:`tasks_list_role` ``Cheking``.
 
