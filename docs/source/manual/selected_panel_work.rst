@@ -49,7 +49,7 @@ Local:
 Open from incoming
 ~~~~~~~~~~~~~~~~~~
 
-`видео <https://disk.yandex.ru/i/6ny5sR3aJ8KjMA>`_
+`(видео) <https://disk.yandex.ru/i/6ny5sR3aJ8KjMA>`_
 
 :guilabel:`Open from incoming` - Взятие в работу топ версии рабочего файла входящей задачи. Для случаев когда надо забрать рабочий файл целиком из входящей задачи в текущую.
 
