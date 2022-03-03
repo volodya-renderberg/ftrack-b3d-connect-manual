@@ -67,6 +67,31 @@ Open task folder
 
 .. _work_panel_textures:
 
+
+.. _work_panel_notes:
+
+Notes:
+------
+
+`(видео) <https://disk.yandex.ru/i/MtyEkV2XoRr3VQ>`_
+
+
+.. _work_panel_open_last_commit_by_web:
+
+Open last Commit by web
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Open last Commit by web` - Открывает обзор последней версии коммита ассета в вёб браузере.
+
+
+.. _work_panel_open_last_review_by_web:
+
+Open last Review by web
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Open last Review by web` - Открывает обзор последней версии ревью ассета в вёб браузере.
+
+
 Textures:
 ---------
 
