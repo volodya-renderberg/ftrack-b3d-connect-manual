@@ -73,7 +73,7 @@ Open task folder
 Notes:
 ------
 
-`(видео) <https://disk.yandex.ru/i/MtyEkV2XoRr3VQ>`_
+`(видео) <https://disk.yandex.ru/i/yRKNPQEyOGHjIw>`_
 
 
 .. _work_panel_open_last_commit_by_web:
