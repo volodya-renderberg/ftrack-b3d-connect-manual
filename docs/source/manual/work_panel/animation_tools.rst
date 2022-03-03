@@ -36,13 +36,3 @@ Download animatic
 
     .. image:: ../../_static/images/animatic_bg_images.png
 
-
-.. _animation_tools_open_last_review_by_web:
-
-Open last Review by web
-~~~~~~~~~~~~~~~~~~~~~~~
-
-`(видео) <https://disk.yandex.ru/i/MtyEkV2XoRr3VQ>`_
-
-:guilabel:`Open last Review by web` - Открывает обзор последней версии ревью шота в Вёб браузере.
-
