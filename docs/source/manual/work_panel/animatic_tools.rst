@@ -187,6 +187,9 @@ Checking shot:
 
 .. image:: ../../_static/images/animatic_tools_checking_shot.png
 
+
+`(видео) <https://disk.yandex.ru/i/7RIwxp8Z9Z2uYw>`_
+
 Инструменты для принимающего анимационные шоты: переписка по шотам и смена статуса. Содержимое заполняется для выделенного шота.
 
 
