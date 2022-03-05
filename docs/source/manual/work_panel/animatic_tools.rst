@@ -168,3 +168,58 @@ Download last Review
 * Секвенции ревью создаются на 8 и 10 дорожках секвенсора.
 
 .. image:: ../../_static/images/sequence_editor_channels.png
+
+
+Checking shot:
+--------------
+
+.. image:: ../../_static/images/animatic_tools_checking_shot.png
+
+Инструменты для принимающего анимационные шоты: переписка по шотам и смена статуса. Содержимое заполняется для выделенного шота.
+
+
+.. _animatic_tools_open_last_review_by_web:
+
+Open last Review by web
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Open last Review by web` - Открывает обзор последней версии ревью выделенного шота в вёб браузере.
+
+
+.. _animatic_tools_change_status:
+
+Change status:
+--------------
+
+Кнопки меняющие статус как последнего ревью так и задачи выделенного шота.
+
+.. _animatic_tools_status_to_rejected:
+
+to "Rejected"
+~~~~~~~~~~~~~
+
+:guilabel:`to "Rejected"` - Отказано или на переработку.
+
+
+.. _animatic_tools_status_to_needs_attention:
+
+to "Needs attention"
+~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`to "Needs attention"` - Требует внимания или дальнейшего рассмотрения.
+
+
+.. _animatic_tools_status_to_proposed_final:
+
+to "Proposed final"
+~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`to "Proposed final"` - Предложено как временный финал, но в дальнейшем будет доработано.
+
+
+.. _animatic_tools_status_to_approved:
+
+to "Approved"
+~~~~~~~~~~~~~
+
+:guilabel:`to "Approved"` - Принято.
