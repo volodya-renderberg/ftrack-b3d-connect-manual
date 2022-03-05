@@ -170,6 +170,18 @@ Download last Review
 .. image:: ../../_static/images/sequence_editor_channels.png
 
 
+.. _animatic_tools_timing_from_selected_sequences:
+
+
+Timing from selected shots
+--------------------------
+
+:guilabel:`Timing from selected shots` - установит временные рамки сцены в пределах выделенных секвенций в *Sequence Editor*.
+
+
+.. _animatic_tools_checking_shot:
+
+
 Checking shot:
 --------------
 
