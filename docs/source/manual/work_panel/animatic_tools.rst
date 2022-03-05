@@ -204,14 +204,14 @@ Open last Review by web
 .. _animatic_tools_change_status:
 
 Change status:
---------------
+~~~~~~~~~~~~~~
 
 Кнопки меняющие статус как последнего ревью так и задачи выделенного шота.
 
 .. _animatic_tools_status_to_rejected:
 
 to "Rejected"
-~~~~~~~~~~~~~
+*************
 
 :guilabel:`to "Rejected"` - Отказано или на переработку.
 
@@ -219,7 +219,7 @@ to "Rejected"
 .. _animatic_tools_status_to_needs_attention:
 
 to "Needs attention"
-~~~~~~~~~~~~~~~~~~~~
+********************
 
 :guilabel:`to "Needs attention"` - Требует внимания или дальнейшего рассмотрения.
 
@@ -227,7 +227,7 @@ to "Needs attention"
 .. _animatic_tools_status_to_proposed_final:
 
 to "Proposed final"
-~~~~~~~~~~~~~~~~~~~
+*******************
 
 :guilabel:`to "Proposed final"` - Предложено как временный финал, но в дальнейшем будет доработано.
 
@@ -235,6 +235,6 @@ to "Proposed final"
 .. _animatic_tools_status_to_approved:
 
 to "Approved"
-~~~~~~~~~~~~~
+*************
 
 :guilabel:`to "Approved"` - Принято.
