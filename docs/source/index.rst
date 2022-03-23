@@ -19,4 +19,5 @@ Manual
    manual/selected_panel_check
    manual/work_panel
    manual/check_panel
+   manual/lcm
    manual/video
