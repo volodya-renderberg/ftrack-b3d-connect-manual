@@ -7,6 +7,8 @@ Light(Ftrack)
 
 .. image:: ../_static/images/lcm_panel.png
 
+`Применение настроек в шот (видео) <https://disk.yandex.ru/d/uEfA4NYCT3CUxQ>`_
+
 
 Save to local text file
 -----------------------
