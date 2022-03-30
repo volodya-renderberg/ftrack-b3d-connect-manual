@@ -100,9 +100,11 @@ Textures:
 Collect textures
 ~~~~~~~~~~~~~~~~
 
-:guilabel:`Collect textures` - Сборка текстур с перезаписью путей в директорию **textures** активной задачи.
+:guilabel:`Collect textures` - Сборка текстур с перезаписью путей, в директорию **textures** активной задачи. 
 
 `Collect textures (видео) <https://youtu.be/iTCtTxtwsns>`_
+
+.. note:: Собираются только текстуры находящиеся за пределами :ref:`projects_folder_settings`.
 
 .. _work_panel_edit_textures:
 
